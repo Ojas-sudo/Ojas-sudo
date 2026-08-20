@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./ChatGPT Image Aug 20, 2026, 12_46_05 PM.png" width="100%">
+<img src="./VLSI-banner.png" width="100%">
 
 </div>
 
