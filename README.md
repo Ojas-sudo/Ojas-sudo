@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="./ChatGPT Image Aug 20, 2026, 12_46_05 PM.png" width="100%">
+
+</div>
+
 # 👋 Hi, I'm Ojas Agarwal
 
 ### `ECE Student` • `Digital VLSI` • `RTL Design` • `ASIC`
